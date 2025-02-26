@@ -1,7 +1,6 @@
 import os
 import time
 import numpy as np
-import matplotlib.pyplot as plt
 import streamlit as st
 import speech_recognition as sr
 from gtts import gTTS
