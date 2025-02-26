@@ -2,10 +2,6 @@ import os
 import time
 import numpy as np
 import streamlit as st
-from gtts import gTTS
-from pydub import AudioSegment
-from pydub.playback import play
-import tempfile
 import io
 import warnings
 warnings.filterwarnings('ignore')
