@@ -2,7 +2,6 @@ import os
 import time
 import numpy as np
 import streamlit as st
-import speech_recognition as sr
 from gtts import gTTS
 from pydub import AudioSegment
 from pydub.playback import play
